@@ -1,0 +1,77 @@
+.search{
+    align-items: center;
+    border: 0.1rem solid black;
+    width: 18rem;
+    display: flex;
+    height: 2rem;
+    border-radius: 20px;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 1rem;
+   padding: 0.5rem;
+
+   
+}
+.input{
+   border: none;
+    outline: none;
+    width: 10rem;
+    font-size: 1.5rem;
+  
+    
+}
+.dialog{
+  
+    width: 25rem;
+    height: 2.1rem;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   
+   
+}
+.btnNext{
+    border: none;
+    outline: none;
+    /* font-size: 1.2rem; */
+    height: 2.7rem;
+    background-color: white;
+
+}
+.dialog1{
+align-items:center;
+ 
+  width: 15rem;
+  display: flex;
+  margin-left: 3rem;
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  padding:0.5rem ;
+}
+input{
+   
+    width: 15rem;
+    padding: 0.5rem;
+   
+}
+.maindiv{
+    border: 0.1rem solid black;
+    width: 15rem;
+    display: flex;
+    flex-direction: column;
+    height: 5rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+  
+}
+/* .maindiv>span{
+    margin-top: -1rem;
+    color: rgb(230, 13, 13);
+    gap: 2rem;
+
+} */
+.dustbin{
+    margin-left: -35rem;
+    margin-top: -5rem;
+
+}

@@ -1,0 +1,35 @@
+.main{
+    width: 100%;
+    margin: 0;
+    padding: 0rem;
+    /* border: 0.1rem solid black; */
+    height: 5rem;
+    position: sticky;
+    background-color: rgb(206, 73, 73);
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+
+}
+.proj{
+    display: flex;
+    align-items:center ;
+    gap: 1rem;
+    font-size: 2rem ;  
+    margin-left: 1rem;
+    
+}
+.proj2{
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+    width: 18rem;
+    margin-right: 1rem;
+    font-size: 1.2rem;
+}
+.profile{
+   display: flex;
+   gap: 1rem;
+   align-items: center;
+   
+}

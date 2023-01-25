@@ -1,0 +1,18 @@
+.wrapper{
+    /* border: 0.1rem solid red; */
+    height: 35rem;
+    width: 15rem;
+    margin-top: 1rem;
+    
+
+}
+.box{
+    border: 0.1rem solid black;
+}
+.box>div{
+    border: 0.1rem solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 4.9rem;
+}
